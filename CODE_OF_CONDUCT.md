@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-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
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for
